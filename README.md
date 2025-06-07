@@ -1,6 +1,9 @@
 # neo-unpatchabomb
 This is a way improved word bomb script (improved by me) from github.com/MarsQQ/Unpatchabomb
 
+# bruh
+the tool i used to obfuscate my code makes a 'hands up skid' thingy in the console. so i will archive this
+
 # Usage
 ## 1.
 Copy the content of (neo-unpatchabomb.lua)[https://raw.githubusercontent.com/sigmacodeslol/neo-unpatchabomb/refs/heads/master/neo-unpatchabomb.lua]:
